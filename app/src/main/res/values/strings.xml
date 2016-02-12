@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Student Shares</string>
+    <string name="t1">Enter your College</string>
+    <string name="t2">verify</string>
 </resources>
+
